@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\raytan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\raytan\\.nuget\\packages"
+    ]
+  }
+}
